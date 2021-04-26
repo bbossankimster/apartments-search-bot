@@ -1,8 +1,8 @@
 ## Оглавление
 
 
-[English](#English)
-[Russian](#Russian)
+- [English](#English)
+- [Russian](#Russian)
 
 <a name="English"></a> 
 
